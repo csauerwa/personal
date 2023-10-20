@@ -21,7 +21,7 @@
 title: My personal site
 email: none@buffalo.edu.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A blank personal site made with Jekyll
+ A blank personal site made with Jekyll
 baseurl: "/personal" # the subpath of your site, e.g. /blog
 url: "https://csauerwa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  csauerwa
@@ -40,13 +40,15 @@ plugins:
 # their entries' file path in the `include:` list.
 #
 # exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+   - .sass-cache/
+   - .jekyll-cache/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
+   - node_modules/
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
+   - .DS_Store
+
