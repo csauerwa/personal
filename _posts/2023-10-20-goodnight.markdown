@@ -6,6 +6,6 @@ categories: news
 ---
 ## Goodnight!
 
-![Library postcard](/img/ql.jpg)
+![Library postcard](/personal/img/ql.jpg)
 
 
